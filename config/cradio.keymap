@@ -51,7 +51,7 @@
 //          &kp GRAVE &mkp RCLK  &mwh SCROLL_UP &mwh SCROLL_DOWN &trans         &mkp LCLK &kp PG_DN &kp K_VOL_DN &trans &trans
 //          &to 0 &trans                                                        &sk RALT &to 1
 //          >;
-      };
+//      };
       bluetooth {
         bindings = <
           &trans &trans &trans &trans &trans                &trans &trans &trans &trans &trans
