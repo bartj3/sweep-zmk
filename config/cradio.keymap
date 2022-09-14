@@ -30,10 +30,10 @@
 
       first {
         bindings = <
-          &kp ESC &kp ATSN &kp LS(N3) &kp DLLR &kp PRCNT                   &kp CARET &kp LS(COMMA) &kp LS(DOT) &kp SEMI &kp BKSP
-          &kp TAB &kp EQUAL &kp LA(RBKT) &kp LA(LS(RBKT))                  &kp SQT &kp BSLH &kp LBRC  &kp RBRC &kp PIPE &kp ENTER
-          &kp TILDE &kp LA(N3) &kp LA(LBKT) &kp LA(LS(LBKT))               &kp DQT &kp LBKT &kp LPRN &kp RPRN &kp RBKT &trans
-          &to 0 &sk LSHIFT                                                 &sk RALT &to 2
+          &kp ESC &kp ATSN &kp HASH &kp DLLR &kp PRCNT      &kp CARET &kp SLASH &kp BSLSH &kp SEMI &kp BKSP
+          &kp TAB &kp EQUAL &kp QMARK &kp QMARK &kp EXCL    &kp BSLH &kp LBRC &kp RBRC &kp PIPE &kp ENTER
+          &kp TILDE &kp STAR &kp MINUS &kp UNDER            &kp DQT &kp LBKT &kp LPRN &kp RPRN &kp RBKT &kp ENTER
+          &to 0 &sk LSHIFT                                  &sk RALT &to 2
           >;
       };
 
