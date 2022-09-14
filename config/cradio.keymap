@@ -23,7 +23,7 @@
         bindings = <
           &kp Q &kp W &kp E &kp R &kp T              &kp Y &kp U &kp I &kp O &kp P
           &kp A &kp S &mt LALT D &mt LGUI F &kp G    &kp H &mt LGUI J &mt LALT K &kp L &kp QUOT
-          &mt LSFT Z &kp X &kp C &kp V &kp B         &kp N &kp M &kp CMMA &kp DOT &mt LSFT RET
+          &mt LSFT Z &kp X &kp C &kp V &kp B         &kp N &kp M &kp CMMA &kp DOT &mt LSFT ENTER
           &kp SPC &sk LSHIFT                         &sk RCTRL &to 1
           >;
       };
@@ -32,7 +32,7 @@
         bindings = <
           &kp ESC &kp ATSN &kp HASH &kp DLLR &kp PRCNT     &kp CARET &kp SLASH &kp BSLSH &kp SEMI &kp BKSP
           &kp TAB &kp EQUAL &kp PLUS &kp QMARK &kp EXCL    &kp BSLH &kp LBRC &kp RBRC &kp PIPE &kp ENTER
-          &kp TILDE &kp STAR &kp MINUS &kp UNDER           &kp DQT &kp LBKT &kp LPRN &kp RPRN &kp RBKT &kp ENTER
+          &kp TILDE &kp STAR &kp MINUS &kp UNDER &kp DQT   &kp LBKT &kp LPRN &kp RPRN &kp RBKT &kp GRAVE
           &to 0 &sk LSHIFT                                 &sk RALT &to 2
           >;
       };
