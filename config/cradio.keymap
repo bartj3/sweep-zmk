@@ -30,7 +30,7 @@
 
       first {
         bindings = <
-          &kp ESC &kp ATSN &kp HASH &kp DLLR &kp PRCNT     &kp CARET &kp SLASH &kp BSLSH &kp SEMI &kp BKSP
+          &kp ESC &kp ATSN &kp HASH &kp DLLR &kp PRCNT     &kp CARET &kp SLASH &kp BSLH &kp SEMI &kp BKSP
           &kp TAB &kp EQUAL &kp PLUS &kp QMARK &kp EXCL    &kp BSLH &kp LBRC &kp RBRC &kp PIPE &kp ENTER
           &kp TILDE &kp STAR &kp MINUS &kp UNDER &kp DQT   &kp LBKT &kp LPRN &kp RPRN &kp RBKT &kp GRAVE
           &to 0 &sk LSHIFT                                 &sk RALT &to 2
